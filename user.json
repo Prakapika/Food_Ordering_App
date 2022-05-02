@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Prakash",
+        "password": "Alliswell@1996,",
+        "age": "26",
+        "phone_number": "9786316949",
+        "order history": {
+            "05-02-2022": [
+                "Paani Poori"
+            ]
+           
+        }
+    },
+    {
+        "id": 2,
+        "name": "Ajay",
+        "password": "123",
+        "age": "25",
+        "phone_number": "1232142354",
+        "order history": {
+            "04-25-2022": [
+                "Tandoori Chicken"
+            ]
+        }
+    }
+]
